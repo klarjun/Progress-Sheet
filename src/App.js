@@ -10,8 +10,8 @@ function App() {
      <div>
       <Jumbotron fluid>
         <Container fluid>
-          <h1 className="display-3">WELCOME TO BOOTCAMP - JULY 18 EDITION</h1>
-          <p className="lead">My Name is Kempanahalli L Arjun and I am instructor  </p>
+          <h1 className="display-3">WELCOME TO BOOTCAMP - JULY 2021 EDITION</h1>
+          <p className="lead">My Name is Kempanahalli L Arjun and I am a Student  </p>
           <NavBar />
 
           <Table dark>
